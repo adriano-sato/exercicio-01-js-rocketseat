@@ -22,7 +22,7 @@ if (oddPair == 0) {
   alert(`A soma dos dois números é impar: ${sum}`);
 }
 if (numberOne == numberTwo) {
-  alert("Os números inseridos são iguais");
+  alert("Os números inseridos são iguais ");
 } else {
-  alert("Os números inseridos são diferentes");
+  alert("Os números inseridos são diferentes ");
 }
